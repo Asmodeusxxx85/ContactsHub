@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 12.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsHub", "ContactsHub\ContactsHub.csproj", "{3FEB00A6-F0D8-4522-B9C6-A8E567E0EC63}"
 EndProject
 Global
