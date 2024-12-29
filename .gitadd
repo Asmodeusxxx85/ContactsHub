@@ -5,7 +5,7 @@ riderModule.iml
 /_ReSharper.Caches/
 
 # Just Rider stuff
-/.idea
+/.sky
 
 **/*/appsettings.Development.json
 **/*/appsettings.Production.json
